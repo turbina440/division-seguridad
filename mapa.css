@@ -1,5 +1,4 @@
-*{margin: 0;}
-
+*{margin: 0}
 header{background: blueviolet;
 text-align: center;}
 
@@ -9,8 +8,7 @@ color: white;}
 li{padding: 10px 30px;
 display: inline-block;}
 
-ul{text-decoration: none;
-}
+ul{text-decoration: none;}
 
 main{background: lightgrey;}
 
@@ -18,12 +16,5 @@ footer{background: lightcoral;
 padding: 10px}
 
 
-
-.logo{background: darkred;
-text-align: center}
-
-.mision p{padding: 10px}
-
-h1 {padding:10px;
-text-align: center;}
+.map {text-align: center;}
 
